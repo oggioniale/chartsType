@@ -1,6 +1,6 @@
 # Charts type
 Vocabulary for charts type.
-Hosted at [rdfdata.get-it.it](https://rdfdata.lteritalia.it/chartsType/).
+Hosted at [rdfdata.lteritalia.it](https://rdfdata.lteritalia.it/chartsType/).
 
 # Conversion: 
 The vocabulary is created by [excel2rdf](https://xls2rdf.sparna.fr/rest/):
